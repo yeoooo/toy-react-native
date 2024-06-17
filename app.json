@@ -1,17 +1,4 @@
 {
   "name": "toy_react_native",
-  "displayName": "toy_react_native",
-
-  "expo": {
-      "plugins": [
-        [
-          "expo-camera",
-        {
-          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
-          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone",
-          "recordAudioAndroid": true
-         }
-      ]
-    ]
-  }
+  "displayName": "toy_react_native"
 }
